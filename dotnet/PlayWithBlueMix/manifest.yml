@@ -1,0 +1,5 @@
+applications:
+- name:      chaliy-play-with-bluemix-dotnet
+
+  host:      chaliy-play-with-bluemix-dotnet
+  memory:    512M
