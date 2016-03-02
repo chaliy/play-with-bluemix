@@ -1,0 +1,6 @@
+applications:
+- name:      chaliy-play-with-bluemix
+
+  host:      chaliy-play-with-bluemix
+  command:   node index --verbose
+  memory:    128M
